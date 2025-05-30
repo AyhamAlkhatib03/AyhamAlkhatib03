@@ -36,11 +36,19 @@ Welcome to my GitHub profile! I’m a Data Science senior at UMass Lowell, passi
 
 ## 🌟 Featured Projects
 
+### 🧠 Neural Network Model for Alzheimer’s Detection in MRI Images
+- **Tools:** Python, Pandas, Matplotlip TensorFlow, Keras, Google Colab
+- **Highlights:** Built a CNN from scratch on Google Colab’s GPU to classify Alzheimer’s stages from MRI images. Achieved 82% training accuracy through robust data preprocessing and created visualizations to analyze key metrics and extract valuable insights.
+
+
 ### 🫀 Heart Disease Prediction
 - **Technologies:** Neural Networks, Naive Bayes, Data Visualization, Data Mining, Pandas, Numpy, Matplotlib
 - **Highlights:** Developed and compared Naive Bayes and neural network models from scratch to predict heart disease using UCI
 medical data. Achieved 82.2% accuracy on both models by implementing custom training, backpropagation, and evaluation
 pipelines in Python.
 
+### 🏦 Bankruptcy Prediction Model
+- **Tools:** Python, Pandas, Scikit-learn, Matplotlib
+- **Highlights:** Built a predictive model to identify potential bankruptcies using financial indicators. Utilized classification algorithms to achieve high accuracy and interpretability, enabling data-driven risk assessments. Delivered a comprehensive report with visualizations to communicate key findings effectively.
 
 
