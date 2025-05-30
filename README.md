@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I’m a Data Science senior at UMass Lowell, passi
 ### 🔢 Data Science & Machine Learning
 - **Programming & Libraries:** Python, R, Pandas, NumPy, Scikit-learn  
 - **Machine Learning & AI:** TensorFlow, Keras, Neural Networks, Deep Learning, Computer Vision  
-- **Cloud Platforms:** Microsoft Azure (ADF, Machine Learning, Data Lake), AWS
+- **Cloud Platforms:** Microsoft Azure (ADF, Machine Learning), AWS
 
 ### 📊 Data Analysis & Visualization
 - **Data Visualization Tools:**  Matplotlib, Seaborn, Power BI, Tableau
