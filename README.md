@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Ayham Alkhatib!
-Welcome to my GitHub profile! I’m a Data Science senior at UMass Lowell.
+Welcome to my GitHub profile! I’m a Computer Science senior at UMass Lowell.
 
 ---
 
