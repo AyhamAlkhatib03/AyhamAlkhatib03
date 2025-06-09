@@ -1,11 +1,11 @@
 ## 👋 Hi there, I'm Ayham Alkhatib!
-Welcome to my GitHub profile! I’m a Data Science senior at UMass Lowell, passionate about harnessing the power of **Machine Learning** and **Artificial Intelligence** to solve real-world problems. Here’s a bit about me:
+Welcome to my GitHub profile! I’m a Data Science senior at UMass Lowell.
 
 ---
 
 ## 🚀 About Me
 - 🎓 **Education**: Senior at UMass Lowell, majoring in Data Science.
-- **🧠 Current Interests:** Gen AI, Deep Learning and Machine Learning.
+- **🧠 Current Interests:** Software Development, Gen AI, Deep Learning and Machine Learning.
 - 💻 **Projects**: See below for detailed insights into my work!
 - 🌱 **Always Learning:** Continuously exploring cutting-edge advancements in data science and AI.
 
