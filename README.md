@@ -1,52 +1,54 @@
 ## 👋 Hi there, I'm Ayham Alkhatib!
-
-Welcome to my GitHub profile! I’m a Computer Scientist passionate about software testing, automation, and full-stack development—especially in automotive and AI-driven applications.
+Welcome to my GitHub profile! I’m a Computer Science senior at UMass Lowell.
 
 ---
 
 ## 🚀 About Me
-
-- 🎓 **Education**: Senior at UMass Lowell, B.S. in Computer Science  
-- ⚙️ **Specialties**: Manual & Automated Software Testing, Python Automation, CI/CD with Jenkins, and QA-focused DevOps workflows  
-- 💡 **Tech Interests**: OTA Testing, Connected Vehicle Systems, NLP, Cloud Computing, and AI  
-- 🧪 **Recent Work**: Built full-stack web platforms, integrated CI/CD pipelines for model validation, and automated defect tracking in ML and vision-based projects  
-- 📈 **Always Learning**: Constantly improving my skills in scalable testing, ML model evaluation, and production-ready pipelines
+- 🎓 **Education**: Senior at UMass Lowell, majoring in Data Science.
+- **🧠 Current Interests:** Software Development, Gen AI, Deep Learning and Machine Learning.
+- 💻 **Projects**: See below for detailed insights into my work!
+- 🌱 **Always Learning:** Continuously exploring cutting-edge advancements in data science and AI.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools:
 
-### 🔍 Software Testing & Automation
-- **Manual & Automated QA**: PyTest, Selenium, TestRail, JIRA  
-- **Testing Libraries**: PyTest, Unittest, Nose2, Doctest, Hypothesis, Robot Framework, Tox  
-- **DevOps**: Jenkins, Git, Papermill, Jupyter, Postman  
-- **Agile Workflows**: Scrum, Kanban, Sprint Planning
+### 🔢 Data Science & Machine Learning
+- **Programming & Libraries:** Python, R, Pandas, NumPy, Scikit-learn  
+- **Machine Learning & AI:** TensorFlow, Keras, Neural Networks, Deep Learning, Computer Vision  
+- **Cloud Platforms:** Microsoft Azure (ADF, Machine Learning), AWS
 
-### ☁️ Cloud & Web
-- **Platforms**: AWS (EC2, S3, RDS, Lambda), Azure  
-- **Frontend/Backend**: React.js, Node.js, Flask  
-- **APIs**: RESTful API development and integration
+### 📊 Data Analysis & Visualization
+- **Data Visualization Tools:**  Matplotlib, Seaborn, Power BI, Tableau
+- **Preprocessing & Cleaning:** Excel, SQL (MariaDB), Python
+- **Dashboards & Reporting:** Power BI, Tableau, Jupyter Notebook
 
-### 🧠 AI/ML & Data Science
-- **Languages & Libs**: Python, Scikit-learn, Pandas, NumPy, Matplotlib  
-- **Deep Learning**: TensorFlow, Keras (CNNs, MRI classification, sentiment analysis)  
-- **ML Projects**: Classification, NLP, Topic Modeling, Feature Importance
+### ⚙️ Data Engineering & ETL/ELT
+- **ETL/ELT Tools:** Azure Data Factory, Databricks, Apache Spark
+- **Data Storage:** Azure Data Lake, MariaDB SQL
+- **Pipeline Development:** API Integration, Data Transformation, Large-scale Data Processing
+
+### 🛠️ Development & Collaboration
+- **Version Control:** Git
+- **Preferred IDEs:** Jupyter Notebook, Google Colab, Databricks
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🧠 Alzheimer’s Detection in MRI Images
-- Built a CNN in TensorFlow/Keras to classify Alzheimer’s stages using MRI scans  
-- Integrated JIRA for defect tracking and manual QA validation of misclassified cases  
-- **Tools**: Python, TensorFlow, JIRA, Manual Testing, CNNs
+### 🧠 Neural Network Model for Alzheimer’s Detection in MRI Images
+- **Tools:** Python, Pandas, Matplotlip TensorFlow, Keras, Google Colab
+- **Highlights:** Built a CNN from scratch on Google Colab’s GPU to classify Alzheimer’s stages from MRI images. Achieved 82% training accuracy through robust data preprocessing and created visualizations to analyze key metrics and extract valuable insights.
 
-### 📊 Bankruptcy Prediction Model
-- Built a predictive classifier using financial indicators (Logistic Regression, SVM, Random Forest)  
-- Integrated a full CI/CD pipeline using Jenkins and Papermill for notebook automation  
-- Implemented PyTest scripts to enforce model accuracy and data integrity  
-- **Tools**: Python, Jenkins, PyTest, Scikit-learn, Matplotlib
 
----
+### 🫀 Heart Disease Prediction
+- **Technologies:** Neural Networks, Naive Bayes, Data Visualization, Data Mining, Pandas, Numpy, Matplotlib
+- **Highlights:** Developed and compared Naive Bayes and neural network models from scratch to predict heart disease using UCI
+medical data. Achieved 82.2% accuracy on both models by implementing custom training, backpropagation, and evaluation
+pipelines in Python.
 
-📫 **Let’s Connect**: [GitHub](https://github.com/AyhamAlkhatib03) • [Email](mailto:ayham_alkhatib@student.uml.edu)
+### 🏦 Bankruptcy Prediction Model
+- **Tools:** Python, Pandas, Scikit-learn, Matplotlib
+- **Highlights:** Built a predictive model to identify potential bankruptcies using financial indicators. Utilized classification algorithms to achieve high accuracy and interpretability, enabling data-driven risk assessments. Delivered a comprehensive report with visualizations to communicate key findings effectively.
+
+
