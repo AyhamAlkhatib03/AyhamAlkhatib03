@@ -1,10 +1,10 @@
 ## 👋 Hi there, I'm Ayham Alkhatib!
-Welcome to my GitHub profile! I’m a Computer Science senior at UMass Lowell.
+Welcome to my GitHub profile! I’m a Data Engineer at Kabafusion. 
 
 ---
 
 ## 🚀 About Me
-- 🎓 **Education**: Senior at UMass Lowell, majoring in Data Science.
+- 🎓 **Education**: UMass Lowell, Data Science Major.
 - **🧠 Current Interests:** Software Development, Gen AI, Deep Learning and Machine Learning.
 - 💻 **Projects**: See below for detailed insights into my work!
 - 🌱 **Always Learning:** Continuously exploring cutting-edge advancements in data science and AI.
