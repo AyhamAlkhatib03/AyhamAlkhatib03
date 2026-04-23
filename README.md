@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Ayham Alkhatib!
-Welcome to my GitHub profile! I’m a Data Engineer at Kabafusion. 
+Welcome to my GitHub profile!
 
 ---
 
